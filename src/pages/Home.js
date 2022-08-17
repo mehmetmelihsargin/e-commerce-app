@@ -4,7 +4,7 @@ import Navbar from "../components/Navbar";
 
 const Home = () => {
   return (
-  <div className="flex flex-col bg-blue-200">
+  <div className="flex flex-col">
     <Navbar/>
     <Galery />
   </div>
